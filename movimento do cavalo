@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main(){
+
+ int movimentoCompleto = 1;
+ while (movimento completo--)
+ {
+    for(int i =0; i<2;i++){
+        printf("Cima\n");
+    }
+    print("DIreita\n")
+ }
+ 
+    return 0;
+}
